@@ -1,4 +1,4 @@
-## Hi 🤞🏼 I'm Domingos Cunha
+## Hi I'm Domingos Cunha
 
 Analista de dados e Desenvlovedor de Software & FastAPI|I do **architecture construction, Systems functionally solver, and business logic solutions**.
 I also create **Aplication Porgramming Interface, software development, and buniness logic**.
