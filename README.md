@@ -1,12 +1,13 @@
-## Hi I'm Domingos Cunha
+# Hi I'm Domingos Cunha
 
-Analista de dados e Desenvlovedor de Software & FastAPI|I do **architecture construction, Systems functionally solver, and business logic solutions**.
+Data analysis and Devlop backend. I do **architecture construction, Systems functionally solver, and business logic solutions**.
 I also create **Aplication Porgramming Interface, software development, and buniness logic**.
 
 ---
 
 ## 🌐 Where to find me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=Linkedin)](https://www.Linkedin.com/in/DomingosCunha/)
 <p align="left">
   <a href="https://github.com/https://github.com/domingoscunha168-hub">
     <img src="https://img.shields.io/badge/GitHub-DOMINGOSCUNHA-181717?style=for-the-badge&logo=github" />
@@ -53,13 +54,10 @@ I also create **Aplication Porgramming Interface, software development, and buni
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
-
 ---
 
-
-## Philosophy
+# Philosophy
 it's an area where you have the possibility to manipule information, and guarantee you have to accept that this area that will always exist.
-
 
 ---
 
