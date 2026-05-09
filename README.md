@@ -7,7 +7,7 @@ I also create **Aplication Porgramming Interface, software development, and buni
 
 ## 🌐 Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=Linkedin)](https://www.Linkedin.com/in/DomingosCunha/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=Linkedin)](http://www.linkedln.com/in/domingoscunhadev)
 <p align="left">
   <a href="https://github.com/https://github.com/domingoscunha168-hub">
     <img src="https://img.shields.io/badge/GitHub-DOMINGOSCUNHA-181717?style=for-the-badge&logo=github" />
