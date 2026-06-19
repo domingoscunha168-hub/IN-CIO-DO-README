@@ -36,7 +36,7 @@ I also create **Aplication Porgrammer Interface, software development, and bunin
 
 ### Backend
 
-![Phython](https://img.shields.io/badge/Python-3776B?style=for-the-badgelogo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
