@@ -1,6 +1,6 @@
 # Domingos Cunha | `domingoscunha168-hub`
 Data analysis and Devlop backend. I do **architecture construction, Systems functionally solver, and business logic solutions**.
-I also create **Aplication Porgramming Interface, software development, and buniness logic**
+I also create **Aplication Porgrammer Interface, software development, and buniness logic**
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Working%20from%20home-111827?style=for-the-badge&logo=github" alt="Status" />
@@ -71,7 +71,7 @@ it's an area where you have the possibility to manipule information, and guarant
 
 ## Projeto em destaque
 
-- [IN-CIO-DO-README](https://github.com/domingoscunha168-hub/Information)
+- [Information](https://github.com/domingoscunha168-hub/Information)
   
 ## Observacao
 
