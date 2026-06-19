@@ -22,8 +22,8 @@ I also create **Aplication Porgramming Interface, software development, and buni
 
   ## Onde me encontrar
 
-- LinkedIn: (https://www.linkedin.com/in/domingoscunha168)
-- Instragram: (https:/www.instagram.com/dcunha_oficial)
+- [LinkedIn]
+- [Instragram]
 
 - Gosto de executar projetos que envolvem:
 
@@ -71,7 +71,7 @@ it's an area where you have the possibility to manipule information, and guarant
 
 ## Projeto em destaque
 
-- [IN-CIO-DO-README](https://github.com/domingoscunha168-hub/IN-CIO-DO-README)
+- [IN-CIO-DO-README](https://github.com/domingoscunha168-hub/Information)
   
 ## Observacao
 
