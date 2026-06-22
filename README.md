@@ -1,6 +1,6 @@
 # Domingos Cunha | `domingoscunha168-hub`
 Data analysis and Devlop backend. I do **architecture construction, Systems functionally solver, and business logic solutions**.
-I also create **Aplication Porgrammer Interface, software development, and buniness logic**
+I also create **Aplication Porgrammer Interface, software development, and buninns**
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Working%20from%20home-111827?style=for-the-badge&logo=github" alt="Status" />
@@ -20,10 +20,10 @@ I also create **Aplication Porgrammer Interface, software development, and bunin
 -   📊 Data processing & analytics
 -   🕵🏼‍♂️ System analysis & architecture
 
-  ## Onde me encontrar
+  ## Onde me encontrar:
 
-- [LinkedIn]
-- [Instragram](https://www.instagram.com/dcunha_oficial?igsh=bnU3d2JrczZrdm9m)
+- [LinkedIn](https://www.linkedln.com/in/domingoscunha168)
+- [Instagram](https://www.instagram.com/dcunha_oficial?igsh=bnU3d2JrczZrdm9m)
 
 - Gosto de executar projetos que envolvem:
 
@@ -32,7 +32,7 @@ I also create **Aplication Porgrammer Interface, software development, and bunin
 - performance
 - arquitetura
 
-## Stack principal
+## Stack principal:
 
 ### Backend
 
