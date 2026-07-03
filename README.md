@@ -59,10 +59,6 @@ Programmer of Software specifically Developer Backend.**I also create Aplication
   <img src="https://streak-stats.demolab.com?user=domingoscunha168-hub&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
-## Filosofia
-
-it's an area where you have the possibility to manipule information, and guarantee you have to accept that this area that will always exist.
-
 ## Projeto em destaque
 
 - [Information](https://github.com/domingoscunha168-hub/Information)
