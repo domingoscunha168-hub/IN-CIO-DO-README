@@ -27,7 +27,7 @@ Programmer of Software specifically Developer Backend.**I also create Aplication
 - Logica de negocio
 - Performance
 - Arquitetura
-- Cibersegury
+- Cibersegurança
 
 ## Stack principal
 ### Backend
