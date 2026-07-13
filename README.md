@@ -1,9 +1,6 @@
 # Domingos Cunha | `domingoscunha168-hub`
 Programmer of Software specifically Developer Backend.**I also create Aplication Porgrammer Interface, software development, Architecture construction, Systems functionally solver and business logic solutions**.
 
-  <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Angola%2C%20Luanda-111827?style=for-the-badge&logo=googlemaps" alt="Localização" />
-</a>
-
 
 ## Sobre mim
 
