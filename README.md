@@ -57,8 +57,6 @@ Programmer of Software specifically Developer Backend.**I also create Aplication
 </div>
 
 ## Projeto em destaque
-
-- [Information](https://github.com/domingoscunha168-hub/Information)
   
 ## Observacao
 
