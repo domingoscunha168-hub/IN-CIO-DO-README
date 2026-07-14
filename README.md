@@ -1,5 +1,5 @@
 # Domingos Cunha | `domingoscunha168-hub`
-Programmer of Software specifically Developer Backend.**I also create Aplication Porgrammer Interface, software development, Architecture construction, Systems functionally solver and business logic solutions**.
+Programmer of Software specifically Developer Backend.**I also create Aplication Porgrammer Interface, software development, Architecture construction, Systems functionally solver and solutions**.
 
 
 ## Sobre mim
