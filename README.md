@@ -1,5 +1,5 @@
 # Domingos Cunha | `domingoscunha168-hub`
-Programmer of Software specifically Developer Backend.**I also create Aplication Porgrammer Interface, software development, Architecture construction, Systems functionally solver and solutions**.
+Programmer of Software specifically Developer Backend.**I also create Aplication Porgrammer Interface, software development, Architecture construction, Systems functionally and solutions**.
 
 
 ## Sobre mim
@@ -21,7 +21,6 @@ Programmer of Software specifically Developer Backend.**I also create Aplication
 ## Gosto de executar projetos que envolvem
 
 - Engenharia de software
-- Logica de negocio
 - Performance
 - Arquitetura
 - Cibersegurança
@@ -60,4 +59,4 @@ Programmer of Software specifically Developer Backend.**I also create Aplication
   
 ## Observacao
 
-Este README foi montado para manter o visual de perfil profissional e incluir o bloco de estatisticas do GitHub como no exemplo da imagem.
+Este README foi montado para manter o visual de perfil profissional e incluir o bloco de estatisticas do GitHub.
