@@ -16,7 +16,7 @@ Programmer of Software specifically Developer Backend.**I also create Aplication
 ## Onde me encontrar
 
 - [LinkedIn](https://www.linkedln.com/in/domingoscunha168)
-- [Instagram](https://www.instagram.com/dcunha_oficial?igsh=bnU3d2JrczZrdm9m)
+- [Instagram](https://www.instagram.com/dcunha_oficial)
 
 ## Gosto de executar projetos que envolvem
 
@@ -49,7 +49,6 @@ Programmer of Software specifically Developer Backend.**I also create Aplication
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=domingoscunha168-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domingoscunha168-hub&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=domingoscunha168-hub&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
