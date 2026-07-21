@@ -21,7 +21,6 @@ Programmer of Software specifically Developer Backend.**I also create Aplication
 ## Gosto de executar projetos que envolvem
 
 - Engenharia de software
-- Performance
 - Arquitetura
 - Cibersegurança
 
