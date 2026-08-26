@@ -24,8 +24,7 @@ Programmer of Software specifically Developer Backend.**I also create Aplication
 - Arquitetura
 - Cibersegurança
 
-## Stack principal
-### Backend
+## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
